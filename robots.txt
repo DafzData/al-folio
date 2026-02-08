@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Zolinad.github.io/al-folio/sitemap.xml
